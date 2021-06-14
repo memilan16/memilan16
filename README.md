@@ -1,4 +1,4 @@
-<img src = "https://github.com/memilan16/milanonline/blob/main/image.jpeg" >
+<img src = "https://github.com/memilan16/memilan16/blob/main/image.jpeg" >
 
 # About
 
